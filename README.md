@@ -6,35 +6,32 @@ Construir una aplicación web haciendo uso de tecnologías HTML, CSS y JS. La cu
 
 Fecha de entrega
 Semana 16 de 2016-2
+
 Forma de entrega
 Presencial con sustentación - 3 personas por grupo
+
 Presaberes
-El estudiante debe tener claro los conceptos de CSS, HTML y JS y algunos de los frameworks
-vistos en clase. Así mismo como las buenas practicas de desarrollo de aplicaciones web.
+El estudiante debe tener claro los conceptos de CSS, HTML y JS y algunos de los frameworks vistos en clase. Así mismo como las buenas practicas de desarrollo de aplicaciones web.
+
 Contexto
-En la actualidad para los docentes de la Universidad del quindío, especificamente aquellos que
-trabajan en el area de programación, es muy complicado calificar el código de sus estudiantes, ya
-que las plataformas utilizadas son realmente lentas en este proceso. Para poder calificar el código
-de un estudiantes, este debe descargarlo de una plataforma virtual como moodle o el correo
-electronico y luego crear un ambiente de desarrollo para ese proyecto especifico. Lo cual hace que
-el calificar este tipo de actividades sea mucho mas complejo de lo normal.
+En la actualidad para los docentes de la Universidad del quindío, especificamente aquellos que trabajan en el area de programación, es muy complicado calificar el código de sus estudiantes, ya que las plataformas utilizadas son realmente lentas en este proceso. Para poder calificar el código de un estudiantes, este debe descargarlo de una plataforma virtual como moodle o el correo electronico y luego crear un ambiente de desarrollo para ese proyecto especifico. Lo cual hace que el calificar este tipo de actividades sea mucho mas complejo de lo normal.
+
 Propuesta de proyecto
-Se pide al grupo de trabajo que cree una aplicación que permita solucionar la problematica que se
-presenta en la Universidad del Quindío. Y se detallan los siguientes requisitos para la aplicación:
-Funcionalidades básicas
+Se pide al grupo de trabajo que cree una aplicación que permita solucionar la problematica que se presenta en la Universidad del Quindío. Y se detallan los siguientes requisitos para la aplicación:
+
 • El docente debe estar en la capacidad de crear una actividad con fecha limite, lenguaje de
 programación y nombre de la asignatura, a la cual se le genera un código que sera enviado a
 los estudiantes para que encuentren la actividad sin problema.
+
 • Un estudiante puede buscar actividades o asignaturas haciendo uso del código unicamente, y
 puede enviar una actividad haciendo uso de su enlace a su proyecto en github., que servirá
 para que el docente pueda visualizarlo.
+
 • La aplicación debe permitir al docente visualizar el código de los estudiantes a traves de la
 plataforma GitHub, haciendo uso del nombre de usuario del estudiante, que previamente
 debió haber registrado o que los mismos estudiantes solicitaron la solicitud de amistad del
 docente en Github.
-Electiva profesional 1 - Frontend
-Ing. Andrés Felipe Herrera Ospina
-afherrera@uniquindio.edu.co
+
 • El docente debe estar en la capacidad de enviar mensajes al estudiantes indicandole los
 problemas de la aplicación, errores o posibles mejoras, indicando exactamente la linea de
 código y la ruta del archivo donde se generó dicho comentario, los comentarios no deben
