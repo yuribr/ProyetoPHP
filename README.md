@@ -1,7 +1,7 @@
 # ProyetoPHP
 Proyecto final de la electiva profesional herramientas de productividad para desarrollo de aplicaciones web - I
 
-#Objetivo
+Objetivo
 Construir una aplicación web haciendo uso de tecnologías HTML, CSS y JS. La cual valide los conocimientos adquiridos durante el semestre y que sirva como elemento de evaluación para el proyecto final del espacio academico.
 
 Fecha de entrega
